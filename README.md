@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xun2018)](https://github.com/Xun2018/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xun2018&layout=compact)](https://github.com/Xun2018/github-readme-stats)
+
+![Xun2018's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xun2018&show_icons=true&theme=tokyonight)
